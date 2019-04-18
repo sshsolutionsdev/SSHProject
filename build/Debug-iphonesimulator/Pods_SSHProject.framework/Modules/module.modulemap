@@ -1,0 +1,6 @@
+framework module Pods_SSHProject {
+  umbrella header "Pods-SSHProject-umbrella.h"
+
+  export *
+  module * { export * }
+}

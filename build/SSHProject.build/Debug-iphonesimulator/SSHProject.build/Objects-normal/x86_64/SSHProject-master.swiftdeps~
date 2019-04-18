@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "fdbb03acaa42bb1d8684fc2d3df49988"
+build_time: [1555611181, 59658000]
+inputs:
+  "/Users/harshbhatnagar/Desktop/XcodeProjectType/SSHProject-master/SSHProject/SSHProject/ViewController.swift": [1555610093, 0]
+  "/Users/harshbhatnagar/Desktop/XcodeProjectType/SSHProject-master/SSHProject/SSHProject/AppDelegate.swift": [1555610093, 0]
